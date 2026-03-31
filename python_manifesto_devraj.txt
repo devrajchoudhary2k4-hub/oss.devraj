@@ -1,0 +1,8 @@
+
+Python Developer Manifesto
+Date: 31 March 2026
+
+I frequently use SymPy, which highlights Python’s versatility.
+For me, coding freedom means Use of anything.
+I aim to build A Research project solving a maths equation using Python and share it openly.
+This reflects my belief in open-source collaboration.
